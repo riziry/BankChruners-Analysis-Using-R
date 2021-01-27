@@ -1,0 +1,39 @@
+Attri = 1
+Existing = 0
+
+(Gender)
+Male = 1
+Female = 0
+
+(Education Level)
+Unknown = 0
+Uneducated = 1
+High School = 2
+College = 3
+Graduate = 4
+Postpone = 5
+Doctorate = 6
+
+(Marital_Status)
+Unknown = 0
+Single = 1
+Married = 2
+Divorced = 3
+
+(Card Category)
+Blue = 0
+Silver = 1
+Gold = 2
+Platinum = 3
+
+(Income Category)
+Unknown = 0
+Less than $40K = 1
+$60K - $80K = 2
+$80K - $120K = 3
+$120K + = 4
+$40K - $60K = 5
+
+
+
+
